@@ -55,3 +55,5 @@ Soy una person entregado a mi trabajo, me gusta pasar tiempo creando y haciecndo
 - Estudiante del boodcamp QA engineer en tripleten.Mx
 - Me interes aprender a hacer pruebas automatizadas para ser mas eficiente en mi trabajo 
 
+Este proyecto es una práctica para aprender a usar Git y GitHub.
+
